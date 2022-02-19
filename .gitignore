@@ -1,2 +1,6 @@
 node_modules
 spells.json
+characters.json
+characters.yaml
+only_spells.json
+only_spells.yaml
